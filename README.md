@@ -6,3 +6,10 @@ This example, as the text input gains and loses focus, feedback is shown to the 
 * The HTML elements you can interact with, such as links and form elements, can gain focus. These events fire when they gain or lose focus.
 * If you can interact with HTML element, then it can gain and lose focus. You can also tab between the elements that can gain focus a technique often used by those with visual impairments.
 * In older scripts, the focus and blur events were often used to change the appearance of an element as it gained focus, but now the CSS: focus psedo-class is a better solution unless you need to affect an element other than the one that gained focus.
+
+## How to run the app?
+* In your terminal type
+```
+git clone https://github.com/bostonhuman/focus-blur
+```
+* Open `focus-blur.html` to run the app.
